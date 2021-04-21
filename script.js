@@ -16,7 +16,7 @@ switch (difficulty) {
         MAX_NUMBER = 50;
         break;
     default:
-        alert("Valore inserito non valido, difficoltà impostata atomaticamente a 0.")
+        alert("Valore inserito non valido, difficoltà impostata automaticamente a 0.")
         MAX_NUMBER = 100;
 }
 
